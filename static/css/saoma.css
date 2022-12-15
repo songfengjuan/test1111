@@ -1,0 +1,81 @@
+.center_block_saoma{
+    background-image: url("../../static/image/back8.png");
+    height: 2258px;
+    width: 1170px;
+    align-items: center;
+    background-size:100% 100%;
+}
+.name_cn{
+    font-size: 50px;
+    position: absolute;
+    display: inline-block;
+    margin-left: 529px;
+    margin-top: 138px;
+    color: #404040;
+    font-weight: 600;
+}
+
+.avatar_img{
+    width: 540px;
+    border-radius:25px;
+    margin: 425px auto 0 312px;
+}
+
+.saoma_tag{
+    font-size: 60px;
+    display: inline-block;
+    margin-left: -435px;
+    margin-top: 1100px;
+    color: #FFFFFF;
+    position: absolute;
+    font-weight: 500;
+}
+.curr_time{
+    font-size: 55px;
+    margin-left: 338px;
+    margin-top: 270px;
+    display: inline-block;
+    color: #595959;
+    font-weight: 500;
+}
+
+.circle-div1{
+    height: 30px;
+    position: absolute;
+    top: 396px;
+    left: 315px;
+}
+.circle-div2{
+    height: 30px;
+    position: absolute;
+    top: 975px;
+    left: 315px;
+}
+.circle-div3{
+    height: 30px;
+    position: absolute;
+    top: 430px;
+    left: 282px;
+}
+.circle-div4{
+    width: 30px;
+    position: absolute;
+    top: 430px;
+    left: 857px;
+}
+.circle1{
+    border-radius: 50%;
+	width: 25px;
+	height: 25px;
+	background: #33cc33;
+	display: inline-block;
+	margin-right: 18px;
+}
+.circle2{
+    border-radius: 50%;
+	width: 25px;
+	height: 25px;
+	background: #33cc33;
+	display: block;
+	margin-bottom: 23px;
+}
